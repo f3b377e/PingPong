@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/second.dir/named_semaphore/second.cpp.o  -o bin/second -lpthread -lrt 

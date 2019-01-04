@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/francesco/Projects/realtime/pingpong/src/cpp/unnamed semaphore/common.hpp
+iostream
+-
+stdio.h
+-
+string.h
+-
+unistd.h
+-
+sys/mman.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+semaphore.h
+-
+errno.h
+-
+string.h
+-
+pthread.h
+-
+
+/home/francesco/Projects/realtime/pingpong/src/cpp/unnamed semaphore/second.cpp
+common.hpp
+/home/francesco/Projects/realtime/pingpong/src/cpp/unnamed semaphore/common.hpp
+

@@ -1,0 +1,11 @@
+/home/francesco/Projects/realtime/pingpong/src/cpp/CMakeFiles/rebuild_cache.dir
+/home/francesco/Projects/realtime/pingpong/src/cpp/CMakeFiles/edit_cache.dir
+/home/francesco/Projects/realtime/pingpong/src/cpp/CMakeFiles/unnamed_second.dir
+/home/francesco/Projects/realtime/pingpong/src/cpp/CMakeFiles/namedsem_first.dir
+/home/francesco/Projects/realtime/pingpong/src/cpp/CMakeFiles/ballTracking.dir
+/home/francesco/Projects/realtime/pingpong/src/cpp/CMakeFiles/pingpong.dir
+/home/francesco/Projects/realtime/pingpong/src/cpp/CMakeFiles/namedsem_second.dir
+/home/francesco/Projects/realtime/pingpong/src/cpp/CMakeFiles/unnamed_first.dir
+/home/francesco/Projects/realtime/pingpong/src/cpp/lib/CMakeFiles/rebuild_cache.dir
+/home/francesco/Projects/realtime/pingpong/src/cpp/lib/CMakeFiles/edit_cache.dir
+/home/francesco/Projects/realtime/pingpong/src/cpp/lib/CMakeFiles/CppToUnity.dir

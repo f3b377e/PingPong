@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/unnamed_first.dir/unnamed_semaphore/first.cpp.o  -o build/unnamed_first -lpthread -lrt 

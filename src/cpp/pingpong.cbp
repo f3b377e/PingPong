@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="pingpong"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\lib\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/francesco/Projects/realtime/pingpong/src/cpp"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/francesco/Projects/realtime/pingpong/src/cpp"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/francesco/Projects/realtime/pingpong/src/cpp"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="unnamed_second">
+				<Option output="/home/francesco/Projects/realtime/pingpong/src/cpp/build/unnamed_second" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/francesco/Projects/realtime/pingpong/src/cpp/build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 unnamed_second"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="unnamed_second/fast">
+				<Option output="/home/francesco/Projects/realtime/pingpong/src/cpp/build/unnamed_second" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/francesco/Projects/realtime/pingpong/src/cpp/build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 unnamed_second/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="namedsem_first">
+				<Option output="/home/francesco/Projects/realtime/pingpong/src/cpp/build/namedsem_first" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/francesco/Projects/realtime/pingpong/src/cpp/build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 namedsem_first"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="namedsem_first/fast">
+				<Option output="/home/francesco/Projects/realtime/pingpong/src/cpp/build/namedsem_first" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/francesco/Projects/realtime/pingpong/src/cpp/build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 namedsem_first/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ballTracking">
+				<Option output="/home/francesco/Projects/realtime/pingpong/src/cpp/build/ballTracking" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/francesco/Projects/realtime/pingpong/src/cpp/build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv4"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 ballTracking"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ballTracking/fast">
+				<Option output="/home/francesco/Projects/realtime/pingpong/src/cpp/build/ballTracking" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/francesco/Projects/realtime/pingpong/src/cpp/build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv4"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 ballTracking/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pingpong">
+				<Option output="/home/francesco/Projects/realtime/pingpong/src/cpp/build/pingpong" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/francesco/Projects/realtime/pingpong/src/cpp/build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv4"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 pingpong"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pingpong/fast">
+				<Option output="/home/francesco/Projects/realtime/pingpong/src/cpp/build/pingpong" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/francesco/Projects/realtime/pingpong/src/cpp/build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv4"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 pingpong/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="namedsem_second">
+				<Option output="/home/francesco/Projects/realtime/pingpong/src/cpp/build/namedsem_second" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/francesco/Projects/realtime/pingpong/src/cpp/build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 namedsem_second"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="namedsem_second/fast">
+				<Option output="/home/francesco/Projects/realtime/pingpong/src/cpp/build/namedsem_second" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/francesco/Projects/realtime/pingpong/src/cpp/build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 namedsem_second/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="unnamed_first">
+				<Option output="/home/francesco/Projects/realtime/pingpong/src/cpp/build/unnamed_first" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/francesco/Projects/realtime/pingpong/src/cpp/build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 unnamed_first"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="unnamed_first/fast">
+				<Option output="/home/francesco/Projects/realtime/pingpong/src/cpp/build/unnamed_first" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/francesco/Projects/realtime/pingpong/src/cpp/build"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 unnamed_first/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CppToUnity">
+				<Option output="/home/francesco/Projects/realtime/pingpong/src/cpp/lib/build/libCppToUnity.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/francesco/Projects/realtime/pingpong/src/cpp/lib"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv4"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/lib/Makefile&quot;  VERBOSE=1 CppToUnity"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/lib/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/lib/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/lib/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CppToUnity/fast">
+				<Option output="/home/francesco/Projects/realtime/pingpong/src/cpp/lib/build/libCppToUnity.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/francesco/Projects/realtime/pingpong/src/cpp/lib"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include/opencv4"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/lib/Makefile&quot;  VERBOSE=1 CppToUnity/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/lib/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/lib/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/francesco/Projects/realtime/pingpong/src/cpp/lib/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/francesco/Projects/realtime/pingpong/src/cpp/ball tracking/ball_tracking.cpp">
+			<Option target="ballTracking"/>
+		</Unit>
+		<Unit filename="/home/francesco/Projects/realtime/pingpong/src/cpp/commons.hpp">
+			<Option target="pingpong"/>
+		</Unit>
+		<Unit filename="/home/francesco/Projects/realtime/pingpong/src/cpp/lib/CppToUnity.cpp">
+			<Option target="CppToUnity"/>
+		</Unit>
+		<Unit filename="/home/francesco/Projects/realtime/pingpong/src/cpp/lib/CppToUnity.hpp">
+			<Option target="CppToUnity"/>
+		</Unit>
+		<Unit filename="/home/francesco/Projects/realtime/pingpong/src/cpp/main.cpp">
+			<Option target="pingpong"/>
+		</Unit>
+		<Unit filename="/home/francesco/Projects/realtime/pingpong/src/cpp/named semaphore/common.hpp">
+			<Option target="namedsem_first"/>
+			<Option target="namedsem_second"/>
+		</Unit>
+		<Unit filename="/home/francesco/Projects/realtime/pingpong/src/cpp/named semaphore/first.cpp">
+			<Option target="namedsem_first"/>
+		</Unit>
+		<Unit filename="/home/francesco/Projects/realtime/pingpong/src/cpp/named semaphore/second.cpp">
+			<Option target="namedsem_second"/>
+		</Unit>
+		<Unit filename="/home/francesco/Projects/realtime/pingpong/src/cpp/net/networksocket.cpp">
+			<Option target="pingpong"/>
+		</Unit>
+		<Unit filename="/home/francesco/Projects/realtime/pingpong/src/cpp/net/networksocket.hpp">
+			<Option target="pingpong"/>
+		</Unit>
+		<Unit filename="/home/francesco/Projects/realtime/pingpong/src/cpp/thread/threads.cpp">
+			<Option target="pingpong"/>
+		</Unit>
+		<Unit filename="/home/francesco/Projects/realtime/pingpong/src/cpp/thread/threads.hpp">
+			<Option target="pingpong"/>
+		</Unit>
+		<Unit filename="/home/francesco/Projects/realtime/pingpong/src/cpp/unnamed semaphore/common.hpp">
+			<Option target="unnamed_second"/>
+			<Option target="unnamed_first"/>
+		</Unit>
+		<Unit filename="/home/francesco/Projects/realtime/pingpong/src/cpp/unnamed semaphore/first.cpp">
+			<Option target="unnamed_first"/>
+		</Unit>
+		<Unit filename="/home/francesco/Projects/realtime/pingpong/src/cpp/unnamed semaphore/second.cpp">
+			<Option target="unnamed_second"/>
+		</Unit>
+		<Unit filename="/home/francesco/Projects/realtime/pingpong/src/cpp/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/francesco/Projects/realtime/pingpong/src/cpp/lib/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\lib\"/>
+		</Unit>
+		<Unit filename="/home/francesco/Projects/realtime/pingpong/src/cpp/../../../../../../../usr/local/lib/cmake/opencv4/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/home/francesco/Projects/realtime/pingpong/src/cpp/../../../../../../../usr/local/lib/cmake/opencv4/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/home/francesco/Projects/realtime/pingpong/src/cpp/../../../../../../../usr/local/lib/cmake/opencv4/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/home/francesco/Projects/realtime/pingpong/src/cpp/../../../../../../../usr/local/lib/cmake/opencv4/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
