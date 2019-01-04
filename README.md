@@ -75,9 +75,9 @@ di seguito un immagine che spiega meglio:
 
 Risultato:
 ---
-[![Watch the video](https://i.imgur.com/ZMlnisT.png)](https://www.dropbox.com/home/Public?preview=pingpong.mkv)
+[![Watch the video](https://i.imgur.com/ZMlnisT.png)](https://youtu.be/Kw_-q-660Zw)
 
 Download to try:
 ---
 Only Linux: 
-* [Download](https://www.dropbox.com/s/eb6ypo22pfw5luj/PingPong.tar.xz?dl=0)  - 6:37 PM Friday, January 4, 2019 (GMT+1)
+* [Download](https://drive.google.com/open?id=168y92TkGdpW0UlP7Xt7-Gg_LYnN2Vi4l)  - 6:37 PM Friday, January 4, 2019 (GMT+1)
