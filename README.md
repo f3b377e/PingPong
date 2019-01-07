@@ -1,4 +1,4 @@
-Soft RealTime ball detection in using OpenCV & Unity 
+Soft RealTime ball detection using OpenCV & Unity 
 =================
 Il progetto consiste nella realizzazione di una racchetta da pingpong che intercetta la pallina rispondendo così alla battuta del giocatore. Per giocare si utilizza il mouse che simula il movimento della racchetta.
 Il progetto è diviso in due parti principali: un programma per il rendering video, utilizzando Unity, e un programma in cpp per object detection.
